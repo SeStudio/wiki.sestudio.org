@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://wiki.sestudio.org/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki.sestudio.org/bar/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki.sestudio.org/baz/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki.sestudio.org/foo/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki.sestudio.org/guides/getting-started/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki.sestudio.org/guides/advanced/deep-dive/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki.sestudio.org/notes/shower-thoughts/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki.sestudio.org/notes/todo/</loc>
+         <lastmod>2026-06-13</lastmod>
+    </url>
+</urlset>
